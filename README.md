@@ -10,5 +10,5 @@ Download link ( https://drive.google.com/drive/folders/13AOEMCLCEi1mqFs3ABFlGE3J
 5) type in:
 6) sudo su
 7) cd /
-8) sudo   /usr/sbin/chromeos-install  --dst  /dev/sda  --skip_postinstall
+8) sudo   /usr/sbin/chromeos-install  --dst  /dev/mmcblk0p1  --skip_postinstall
 9) Reboot and enjoy
