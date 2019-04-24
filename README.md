@@ -1,5 +1,5 @@
 # GPDpocket-ChromeOS
-Chrome OS builds for GPD pocket
+Chrome OS builds for GPD pocket created using Project Croissant ( https://github.com/imperador/chromefy )
 Download link ( )
 
 1) Use Etcher to create bootable USB drive (https://www.balena.io/etcher/)
